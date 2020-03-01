@@ -1,4 +1,4 @@
-# Forked from mmcgrana/gobyexample
+# Forked from https://github.com/mmcgrana/gobyexample
 
 # Go by Example
 
